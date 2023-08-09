@@ -1,1 +1,4 @@
 
+        image:
+          repository: afakharany/weatherapp-mysql${BUILD_NUMBER}
+          tag: "${BUILD_NUMBER}"
